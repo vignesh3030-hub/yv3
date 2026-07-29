@@ -1,0 +1,11 @@
+{
+  "name": "yv3 - Multimodal AI Identity & Deepfake Detection",
+  "description": "Real-time AI-powered identity verification, facial liveness, deepfake detection, OCR document authentication, voice biometrics, and Explainable AI (XAI) risk analysis.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
